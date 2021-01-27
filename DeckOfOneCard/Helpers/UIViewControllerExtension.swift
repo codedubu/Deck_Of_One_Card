@@ -8,7 +8,6 @@
 
 import UIKit
 
-// Recommend creating a snippet.
 extension UIViewController {
     
     // Has to be a LocalizedError so we can print the error.errorDescription (localizedDecription strips away custom descriptions).
